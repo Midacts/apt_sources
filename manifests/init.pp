@@ -4,7 +4,7 @@
 #
 # == Synopsis
 #
-# This class is used for managing Debian the sources.list file with Puppet.
+# This class is used for managing Debian's sources.list file with Puppet.
 #
 # == Author
 #
