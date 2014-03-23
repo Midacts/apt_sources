@@ -15,7 +15,7 @@
 #
 # == Date
 #
-# 7th of March, 2014
+# 23rd of March, 2014
 #
 # -- Version 1.0 --
 #
